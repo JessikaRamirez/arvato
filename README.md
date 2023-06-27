@@ -14,4 +14,6 @@ The analysis is based on several datasets provided by Bertelsmann, including dem
 ## Languages, Programs, and Libraries
 The project is implemented using Python 3 programming language and various libraries such as Pandas, NumPy, Scikit-learn, Seaborn, and Matplotlib. Anaconda distribution is recommended for running the project.
 
+## Acknowledgements
 
+I would like to thank the experts and professionals who provided their knowledge and guidance during the development of the project. I would also like to thank Bertelsmann and Udacity for providing this learning opportunity and practical application. Without their support, this project would not have been possible.
